@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+</head>
+<div th:insert="fragments/frags :: header"></div>
+<body>
+    <form method="post"
+        th:action="@{/get-word}">
+        <label for="search">Search for a word. The word that is closest to your search term will be returned.</label>
+        <input type="text" id="search" name="term" autofocus th:value="${term}">
+        <input type="submit" value="Search">
+    </form>
+<div th:replace="fragments/frags :: footer"></div>
+</body>
+</html>

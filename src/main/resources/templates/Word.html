@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${item.word}">Title</title>
+</head>
+<body>
+<div th:insert="fragments/frags :: header"></div>
+<table>
+    <tr>
+        <th>Word</th>
+        <th>Definition</th>
+        <th>Examples</th>
+    </tr>
+    <tr>
+        <td>
+            <span th:text="${item.word}">WORD</span>
+        </td>
+        <td>
+            <span th:text="${item.definition}">DEFINITION</span>
+        </td>
+        <td>
+            <span th:text="${item.examples}">EXAMPLES</span>
+        </td>
+    </tr>
+</table>
+<div th:replace="fragments/frags :: footer"></div>
+</body>
+</html>

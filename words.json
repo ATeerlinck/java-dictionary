@@ -1,0 +1,52 @@
+[
+  {
+    "word": "Shoto",
+    "definition": "A Shoto is a specific all rounder character type with moves and characteristics similar to that of Ryu from the street fighter series. These include a defensive projectile, an offensive move (usually a kick) that brings the character forward, and a combo ender/anti-air move that hits forward and up, bringing the character off the ground for the move. This character can be varied and play differently, but the core three moves are present and usuable in similar ways",
+    "examples": "Ryu, Ken, and Akuma from street fighter, Ky from Guilty Gear, and Zero, Captain America, and Ryu from Marvel Vs Capcom"
+  },
+  {
+    "word": "All-Rounder",
+    "definition": "A character type in fighting games that represents the average for the fighting game they are in. These characters are good at everything, but are great at nothing",
+    "examples": "Ryu from street fighter, Kyo from King of Fighters, and Ky and Sol from Guilty Gear"
+  },
+  {
+    "word": "Rushdown",
+    "definition": "A character type in video games that focuses on non-stop pressure on oppenents, living little room to breathe. These characters are usually able to deal a lot of damage very quickly, all whilst being right in your face. They usually have less health, and do poorly at range",
+    "examples": "Millia from Guilty Gear, Stryder Ryu and Wolverine from Marvel vs Capcom, and Sheik and Captain Falcon from Super Smash Brothers"
+  },
+  {
+    "word": "Zoner",
+    "definition": "A character type in fighting games that emphasizes using their attacks to keep opponents away from the zoner. These characters will try to use projectiles or ranged attacks and usually play away from their opponent.",
+    "examples": "Guile from Street fighter, Axl from Guilty Gear, Morrigan from Marvel vs Capcom, and Simon and Richter Belmont from Super Smash Brothers"
+  },
+  {
+    "word": "Grappler",
+    "definition": "A character type in fighting games that emphasizes grabs, through both command grabs and regular throws. Their throws do big damage, but they must get really close to grab their opponent. Zoners do them in, but rushdowns are at major throw risk from grapplers",
+    "examples": "Zangief from Street fighter, Potemkin from Guilty Gear, and Mike Haggar from Marvel vs Capcom"
+  },
+  {
+    "word": "Touch of Death",
+    "definition": "Not to be confused with 0-death, a Touch of Death (or ToD) ia a term used for a full max health to death combo. The opponent can't survive and must die from being at full health. Most games that get patches will get rid of these, but not always. They are really rare, and very hard to do, but very cool (or annoying) if they happen",
+    "examples": "Ibuki's sweep kick from Street Fighter 3: New Generation, or Makoto's ToD in Street Fighter 3: 3rd Strike. These are really rare, but do-able"
+  },
+  {
+    "word": "0 to death",
+    "definition": "Not to be confused with a Touch of Death, a 0 to Death is a Super Smash Brothers term in which one fighter is killed from at 0%, whilst the other fighter",
+    "examples": "Guile from Street fighter, Axl from Guilty Gear, Morrigan from Marvel vs Capcom, and Simon and Richter Belmont from Super Smash Brothers"
+  },
+  {
+    "word": "Meter",
+    "definition": "A term to name an element of most fighting games. A meter is what limits players from spamming super moves, but it can grant the use of super moves or specific game mechanics, like Street Fighter's ex moves and Guilty Gear's Roman Cancel. Some meters allow for multiples to be stored",
+    "examples": "Street Fighter, Guilty Gear, BlazBlue, King of Fighters, Marvel vs Capcom. If it is a fighting game, it most likely has a meter"
+  },
+  {
+    "word": "Super Moves",
+    "definition": "A powerful move that deals a lot of damage. It costs meter to use, with the amount varying based on the game",
+    "examples": "Street Fighter, Guilty Gear, BlazBlue, King of Fighters, Marvel vs Capcom. If it is a fighting game, it most likely has super moves"
+  },
+  {
+    "word": "Combos",
+    "definition": "A combo is a sequence of moves that are sure to hit your opponent before your opponent can do anything. These are in every game",
+    "examples": "Every game"
+  }
+]

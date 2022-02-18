@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Fighting Dictionary</title>
+</head>
+<div th:insert="fragments/frags :: header"></div>
+<body>
+    <h1>Fighting Game Dictionary</h1>
+    <table>
+        <tr>
+            <th>Word</th>
+        </tr>
+        <tr th:each="item : ${dictionary}">
+            <td>
+                <a th:href="@{'/words/'+${item.word}}">
+                    <span th:text="${item.word}">WORD</span>
+                </a>
+            </td>
+        </tr>
+    </table>
+<div th:replace="fragments/frags :: footer"></div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<header th:fragment="header">
+    <h1><a th:href="@{/}">Welcome to the Fighting Game Dictionary</a></h1>
+    <h2><a th:href="@{/search}">Search for a word</a></h2>
+</header>
+<footer th:fragment="footer">
+    ©Alex Teerlinck 2022
+</footer>
+</body>
+</html>
